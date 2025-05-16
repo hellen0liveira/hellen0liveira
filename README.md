@@ -23,7 +23,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas
 
 ![Hellen GitHub stats](https://github-readme-stats.vercel.app/api?username=hellen0liveira&show_icons=true&theme=tokyonight)
 
